@@ -1,4 +1,4 @@
-# Me chamo Bruno de Araújo Alves e seja bem vindo do meu perfil do GitHub. :goat:
+# Olá, me chamo Bruno de Araújo Alves. :goat:
 
 Tenho 21 anos, sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Goiás.\n
 Sou Desenvolvedor Web Full Stack, tenho experiência em NodeJS, VueJS, Python entre outras linguagens e frameworks.\n
