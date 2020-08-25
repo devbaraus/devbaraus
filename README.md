@@ -14,6 +14,7 @@ Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de 
 
 - Front End: HTML, CSS, JS, VueJS, ReactJS, Bootstrap, TailwindCSS, SASS
 - Back End: NodeJS, Express, DJango, Yii2
+- Database: PostgreSQL, MySQL, MongoDB, Firebase, SQLite
 - Mobile: React Native, CapacitorJS, Android
 - Design: Figma, AdobeXD, Illustrator, Photoshop
 - Deploy: Docker, Netlify, Heroku, Google Cloud, Azure
@@ -22,6 +23,7 @@ Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de 
 
 ## :link: Redes Sociais 
 
+<ul></ul>
 - Site: [DevBaraus](https://baraus.dev/)
 - DEV: [/devbaraus](https://dev.to/devbaraus/)
 - Linkedin: [/devbaraus](https://linkedin/in/devbaraus/)
@@ -29,4 +31,8 @@ Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de 
 - Twitter: [/devbaraus](https://twitter.com/devbaraus)
 - Rocketseat: [/devbaraus](https://app.rocketseat.com.br/me/devbaraus)
 - CodersRank: [/devbaraus](https://profile.codersrank.io/user/devbaraus)
+- CodePen: [/devbaraus](https://codepen.io/devbaraus)
 - Pinterest: [/devbaraus](https://pinterest.com/devbaraus/boards/)
+
+***
+
