@@ -15,7 +15,8 @@ Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de 
 - Front End: HTML, CSS, JS, VueJS, ReactJS, Bootstrap, TailwindCSS, SASS
 - Back End: NodeJS, Express, DJango, Yii2
 - Database: PostgreSQL, MySQL, MongoDB, Firebase, SQLite
-- Mobile: React Native, CapacitorJS, Android
+- Mobile: React Native, CapacitorJS, Kotlin
+- Embeded: Arduino
 - Design: Figma, AdobeXD, Illustrator, Photoshop
 - Deploy: Docker, Netlify, Heroku, Google Cloud, Azure
 - Inspirações: Dribbble, Pinterest, Behance
@@ -35,30 +36,30 @@ Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de 
 ---
 
 <div style="display: flex; align-items:center; justify-content:space-between; flex-wrap: wrap;">
-<img src="./svg/devto.svg" style="height: 32px; margin: 1rem;" alt="DEV Community">
-<img src="./svg/prettier.svg" style="height: 32px;margin: 1rem;" alt="Prettier">
-<img src="./svg/insomnia.svg" style="height: 32px;margin: 1rem;" alt="Insomnia">
-<img src="./svg/mongodb.svg" style="height: 32px;margin:  1rem;" alt="MongoDB">
-<img src="./svg/sqlite.svg" style="height: 32px;margin:  1rem;" alt="SQLite">
-<img src="./svg/postgresql.svg" style="height: 32px;margin:  1rem;" alt="Postgresql">
-<img src="./svg/html5.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/css3.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/javascript.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/typescript.svg" style="height: 32px;margin: 1rem;" alt="HTML5">
-<img src="./svg/nodejs.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/express.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/django.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/vuejs.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/react.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/tailwindcss.svg" style="height: 32px;margin: 1rem;" alt="HTML5">
-<img src="./svg/figma.svg" style="height: 32px;margin: 1rem;" alt="HTML5">
-<img src="./svg/firebase.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/docker.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/netlify.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/heroku.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/kotlin.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/arduino.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/yii.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/rocketseat.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
-<img src="./svg/googlecloud.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/devto.svg" style="height: 32px; margin: 1rem;" alt="DEV Community">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/prettier.svg" style="height: 32px;margin: 1rem;" alt="Prettier">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/insomnia.svg" style="height: 32px;margin: 1rem;" alt="Insomnia">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/mongodb.svg" style="height: 32px;margin:  1rem;" alt="MongoDB">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/sqlite.svg" style="height: 32px;margin:  1rem;" alt="SQLite">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/postgresql.svg" style="height: 32px;margin:  1rem;" alt="Postgresql">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/html5.svg" style="height: 32px;margin:  1rem;" alt="HTML5">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/css3.svg" style="height: 32px;margin:  1rem;" alt="CSS3">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/javascript.svg" style="height: 32px;margin:  1rem;" alt="JavaScript">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/typescript.svg" style="height: 32px;margin: 1rem;" alt="TypeScript">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/nodejs.svg" style="height: 32px;margin:  1rem;" alt="NodeJS">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/express.svg" style="height: 32px;margin:  1rem;" alt="ExpressJS">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/django.svg" style="height: 32px;margin:  1rem;" alt="DJango">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/vuejs.svg" style="height: 32px;margin:  1rem;" alt="VueJS">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/react.svg" style="height: 32px;margin:  1rem;" alt="React">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/tailwindcss.svg" style="height: 32px;margin: 1rem;" alt="TailwindCSS">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/figma.svg" style="height: 32px;margin: 1rem;" alt="Figma">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/firebase.svg" style="height: 32px;margin:  1rem;" alt="Firebase">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/docker.svg" style="height: 32px;margin:  1rem;" alt="Docker">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/netlify.svg" style="height: 32px;margin:  1rem;" alt="Netlify">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/heroku.svg" style="height: 32px;margin:  1rem;" alt="Heroku">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/kotlin.svg" style="height: 32px;margin:  1rem;" alt="Kotlin">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/arduino.svg" style="height: 32px;margin:  1rem;" alt="Arduino">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/yii.svg" style="height: 32px;margin:  1rem;" alt="Yii">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/rocketseat.svg" style="height: 32px;margin:  1rem;" alt="Rocketseat">
+<img src="https://raw.githubusercontent.com/devbaraus/devbaraus/master/SVG/googlecloud.svg" style="height: 32px;margin:  1rem;" alt="Google Cloud">
 </div>
