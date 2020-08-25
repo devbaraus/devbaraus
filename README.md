@@ -13,7 +13,7 @@ Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de 
 ## :computer: Tecnologias
 
 - Front End: HTML, CSS, JS, VueJS, ReactJS, Bootstrap, TailwindCSS, SASS
-- Back End: NodeJS, Express, DJango, Yii2
+- Back End: NodeJS, Express, DJango, Yii2, TypeScript
 - Database: PostgreSQL, MySQL, MongoDB, Firebase, SQLite
 - Mobile: React Native, CapacitorJS, Kotlin
 - Embeded: Arduino
