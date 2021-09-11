@@ -1,6 +1,6 @@
 # Olá, me chamo Bruno de Araújo Alves. :goat:
 
-Tenho 21 anos, sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Goiás.
+Tenho 22 anos, sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Goiás.
 
 Sou Desenvolvedor Web Full Stack, tenho experiência em NodeJS, VueJS, Python entre outras linguagens e frameworks.
 
