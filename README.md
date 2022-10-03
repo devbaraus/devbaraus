@@ -33,4 +33,5 @@ Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de 
 - CodePen: [/devbaraus](https://codepen.io/devbaraus)
 - Pinterest: [/devbaraus](https://pinterest.com/devbaraus/boards/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbaraus)](https://github.com/anuraghazra/github-readme-stats)
+[![Devbaraus's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbaraus)](https://github.com/devbaraus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbaraus&layout=compact)](https://github.com/devbaraus)
