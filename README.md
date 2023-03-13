@@ -5,13 +5,11 @@ Olá, sou Bruno de Araújo Alves, estudante de Bacharelado em Ciência da Comput
 ## :computer: Tecnologias
 Abaixo estão algumas das tecnologias que domino:
 
-- Front End: HTML, CSS, JS, VueJS, ReactJS, Bootstrap, TailwindCSS, SASS
-- Back End: NodeJS, Express, DJango, Yii2, TypeScript
-- Database: PostgreSQL, MySQL, MongoDB, Firebase, SQLite
-- Mobile: React Native, CapacitorJS, Kotlin
-- Embeded: Arduino
+- Front End: HTML, CSS, JS, ReactJS, Bootstrap e TailwindCSS
+- Back End: DJango, TypeScript
+- Database: PostgreSQL e MongoDB
 - Design: Figma, AdobeXD, Illustrator, Photoshop
-- Deploy: Docker, Netlify, Heroku, Google Cloud, Azure
+- Deploy: Docker, Netlify, GC e OCI
 - Inspirações: Dribbble, Pinterest, Behance
 
 ## :link: Redes Sociais
