@@ -1,16 +1,9 @@
-# Olá, me chamo Bruno de Araújo Alves. :goat:
+# Eu sou o BARAUS
 
-Tenho 22 anos, sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Goiás.
-
-Sou Desenvolvedor Web Full Stack, tenho experiência em NodeJS, VueJS, Python entre outras linguagens e frameworks.
-
-Me envolvi na computação aos 16 anos com HTML/CSS e só me apaixonei cada vez mais pela área.
-
-Recentemente comecei a postar artigos sobre programação, para passar o conhecimento que adquirir durante os anos.
-
-Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de **Arau**jo Alve**s**.
+Olá, sou Bruno de Araújo Alves, estudante de Bacharelado em Ciência da Computação no Instituto Federal de Goiás e desenvolvedor web Full Stack. Minha paixão pela programação começou aos 16 anos com HTML/CSS e desde então venho desenvolvendo minhas habilidades em diferentes linguagens e frameworks, como NodeJS, VueJS, Python e outros. Recentemente comecei a compartilhar meus conhecimentos através de artigos sobre programação.
 
 ## :computer: Tecnologias
+Abaixo estão algumas das tecnologias que domino:
 
 - Front End: HTML, CSS, JS, VueJS, ReactJS, Bootstrap, TailwindCSS, SASS
 - Back End: NodeJS, Express, DJango, Yii2, TypeScript
@@ -22,6 +15,7 @@ Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de 
 - Inspirações: Dribbble, Pinterest, Behance
 
 ## :link: Redes Sociais
+Você pode me encontrar nas seguintes redes sociais:
 
 - Site: [DevBaraus](https://baraus.dev/)
 - DEV: [/devbaraus](https://dev.to/devbaraus/)
@@ -32,6 +26,9 @@ Para quem se pergunta o que significa **baraus** aqui vai uma dica **B**runo de 
 - CodersRank: [/devbaraus](https://profile.codersrank.io/user/devbaraus)
 - CodePen: [/devbaraus](https://codepen.io/devbaraus)
 - Pinterest: [/devbaraus](https://pinterest.com/devbaraus/boards/)
+
+## :graph: Estatísticas
+Confira também minhas estatísticas no GitHub:
 
 [![Devbaraus's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbaraus)](https://github.com/devbaraus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbaraus&layout=compact&langs_count=10)](https://github.com/devbaraus)
