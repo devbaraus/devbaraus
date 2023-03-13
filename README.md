@@ -12,7 +12,7 @@ Abaixo estão algumas das tecnologias que domino:
 - Deploy: Docker, Netlify, GC e OCI
 - Inspirações: Dribbble, Pinterest, Behance
 
-Aproveite e explore meu respositórios, incluindo as organizações [Bad Omen Hard Survival](https://github.com/badomensurvival), [Ciência da Computação IFG Anápolis](https://github.com/bccanapolis)
+Aproveite e explore meu respositórios, incluindo as organizações [Bad Omen Hard Survival](https://github.com/badomensurvival) e [Ciência da Computação IFG Anápolis](https://github.com/bccanapolis).
 
 ## :link: Redes Sociais
 Você pode me encontrar nas seguintes redes sociais:
