@@ -27,7 +27,7 @@ Você pode me encontrar nas seguintes redes sociais:
 - CodePen: [/devbaraus](https://codepen.io/devbaraus)
 - Pinterest: [/devbaraus](https://pinterest.com/devbaraus/boards/)
 
-## :graph: Estatísticas
+## :bar_chart: Estatísticas
 Confira também minhas estatísticas no GitHub:
 
 [![Devbaraus's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbaraus)](https://github.com/devbaraus)
