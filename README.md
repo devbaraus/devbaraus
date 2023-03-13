@@ -5,12 +5,14 @@ Olá, sou Bruno de Araújo Alves, estudante de Bacharelado em Ciência da Comput
 ## :computer: Tecnologias
 Abaixo estão algumas das tecnologias que domino:
 
-- Front End: HTML, CSS, JS, ReactJS, Bootstrap e TailwindCSS
+- Front End: HTML, CSS, JS, ReactJS e TailwindCSS
 - Back End: DJango, TypeScript
 - Database: PostgreSQL e MongoDB
 - Design: Figma, AdobeXD, Illustrator, Photoshop
 - Deploy: Docker, Netlify, GC e OCI
 - Inspirações: Dribbble, Pinterest, Behance
+
+Aproveite e explore meu respositórios, incluindo as organizações [Bad Omen Hard Survival](https://github.com/badomensurvival), [Ciência da Computação IFG Anápolis](https://github.com/bccanapolis)
 
 ## :link: Redes Sociais
 Você pode me encontrar nas seguintes redes sociais:
