@@ -2,14 +2,6 @@
 
 Olá, sou Bruno de Araújo Alves, estudante de Bacharelado em Ciência da Computação no Instituto Federal de Goiás e desenvolvedor web Full Stack. Minha paixão pela programação começou aos 16 anos com HTML/CSS e desde então venho desenvolvendo minhas habilidades em diferentes linguagens e frameworks, como NodeJS, VueJS, Python e outros. Recentemente comecei a compartilhar meus conhecimentos através de artigos sobre programação.
 
-<div style="display: flex; width: 100%; justify-content: center;">
-  <img src="https://user-images.githubusercontent.com/43019623/224787124-fa2870af-8e5e-4545-b3ed-392b0554a3ea.png" width="60"/>
-  <img src="https://user-images.githubusercontent.com/43019623/224787279-a826d4f5-84c3-401f-974e-02ff5f18d25d.png" width="60"/>
-</div>
-
-
-
-
 ## :computer: Tecnologias
 Abaixo estão algumas das tecnologias que domino:
 
