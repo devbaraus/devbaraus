@@ -32,3 +32,5 @@ Confira também minhas estatísticas no GitHub:
 
 [![Devbaraus's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbaraus)](https://github.com/devbaraus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbaraus&layout=compact&langs_count=10)](https://github.com/devbaraus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbaraus&layout=compact&langs_count=10)](https://github.com/devbaraus)
+<img width="448" style src="http://github-readme-streak-stats.herokuapp.com?user=devbaraus&theme=gotham&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="devbaraus" />
