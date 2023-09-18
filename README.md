@@ -1,6 +1,6 @@
 # Eu sou o BARAUS
 
-Olá, sou Bruno de Araújo Alves, estudante de Bacharelado em Ciência da Computação no Instituto Federal de Goiás e desenvolvedor web Full Stack. Minha paixão pela programação começou aos 16 anos com HTML/CSS e desde então venho desenvolvendo minhas habilidades em diferentes linguagens e frameworks, como NodeJS, VueJS, Python e outros. Recentemente comecei a compartilhar meus conhecimentos através de artigos sobre programação.
+Olá, sou Bruno de Araújo Alves, bacharel em Ciência da Computação pelo Instituto Federal de Goiás e Desenvolvedor Web Full Stack. Minha paixão pela programação começou aos 16 anos com HTML/CSS e desde então venho desenvolvendo minhas habilidades em diferentes linguagens e frameworks, como NodeJS, VueJS, Python e outros. Recentemente comecei a compartilhar meus conhecimentos através de artigos sobre programação.
 
 ## :computer: Tecnologias
 Abaixo estão algumas das tecnologias que domino:
